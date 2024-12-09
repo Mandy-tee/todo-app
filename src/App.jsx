@@ -1,5 +1,5 @@
 import React from 'react'
-import Todo from './assets/components/Todo'
+import Todo from './components/Todo'
 
 const App = () => {
   return (
